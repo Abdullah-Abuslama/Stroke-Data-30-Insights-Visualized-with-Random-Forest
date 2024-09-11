@@ -12,17 +12,17 @@ Welcome to the Stroke Data & Predictions project! This repository features a com
 
 ## Notebook
 
-- **`notebook.ipynb`**: Jupyter notebook containing the complete analysis, visualizations, and modeling. 
+- **`stroke-data-30-insights-visualized-with-ml-model.ipynb`**: Jupyter notebook containing the complete analysis, visualizations, and modeling. 
 
 ## Getting Started
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/stroke-prediction.git
+   git clone https://github.com/Abdullah-Abuslama/Stroke_Data_30_Insights_Visualized_with_Random_Forest.git
 
 ## Getting Started
 
-**Open the Notebook**: Launch Jupyter Notebook or JupyterLab and open `notebook.ipynb` to explore the analysis and visualizations.
+**Open the Notebook**: Launch Jupyter Notebook or JupyterLab and open `stroke-data-30-insights-visualized-with-ml-model.ipynb` to explore the analysis and visualizations.
 
 ## Dataset
 
@@ -51,8 +51,8 @@ The notebook covers:
 
 ## Links
 
-- **Explore the full analysis on Kaggle**: [Your Kaggle Link]
-- **View the GitHub repository**: [Your GitHub Link]
+- **Explore the full analysis on Kaggle**: [[Your Kaggle Link](https://www.kaggle.com/code/abdullahabuslama/stroke-data-30-insights-visualized-with-ml-model)]
+- **View the GitHub repository**: [[Your GitHub Link](https://github.com/Abdullah-Abuslama/Stroke_Data_30_Insights_Visualized_with_Random_Forest.git)]
 
 ## License
 
