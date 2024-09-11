@@ -51,8 +51,8 @@ The notebook covers:
 
 ## Links
 
-- **Explore the full analysis on Kaggle**: [[Your Kaggle Link](https://www.kaggle.com/code/abdullahabuslama/stroke-data-30-insights-visualized-with-ml-model)]
-- **View the GitHub repository**: [[Your GitHub Link](https://github.com/Abdullah-Abuslama/Stroke_Data_30_Insights_Visualized_with_Random_Forest.git)]
+- **Explore the full analysis on Kaggle**: [[Kaggle](https://www.kaggle.com/code/abdullahabuslama/stroke-data-30-insights-visualized-with-ml-model)]
+- **View the GitHub repository**: [[GitHub](https://github.com/Abdullah-Abuslama/Stroke_Data_30_Insights_Visualized_with_Random_Forest.git)]
 
 ## License
 
